@@ -6,7 +6,7 @@ Background information
 Dynamic programming can be understood as 'recursion without repetition'. It is an algorithmic approach to solving recursive problems without re-computing sub-problems unnecessarily, instead storing the results of these sub-problems. As a result, dynamic programming is often orders of magnitude faster than recursion.
 
 
-In order to complete this study, in-depth knowledge of dynamic programming is not necessary, but there are three main steps students tend to follow when solving dynamic programming problems:
+In order to complete this study, in-depth knowledge of dynamic programming is not necessary, but there are three main steps students tend to follow when formulating a dynamic programming algorithm:
 
 1. RECURSIVE - a recursive solution is identified
 2. MEMOIZED - a solution where recursion still takes place but solutions to pre-computed sub-problems are stored (typically in an array), eliminating unnecessary recursive function calls
@@ -23,11 +23,11 @@ The study will be broken down into 2 parts, reflecting the structure of the soft
 
 Please test the functionality/usability of the software in the following ways:
 
-1. Model a problem - attempt to model one or more problems via the command line as follows:
+1. Model a problem - attempt to model one or more problem via the command line as follows:
 
 java -jar DPLib-1.0-SNAPSHOT-jfx.jar model <path/to/file_to_model.java> <path/to/input_file.txt> <method_to_analyse>
 
-Where method_to_analyse is the name of the method which implements the algorithm (e.g. for the FibonacciDP.java sample file this would be 'fibDP'). It is suggested to use one of the supplied sample files, although you are welcome to write your own if you wish.
+Where method_to_analyse is the name of the method which implements the algorithm. It is suggested to use one of the supplied sample files, although you are welcome to write your own if you wish.
 
 
 2. Solve a problem - use the GUI to solve a problem based on a .mod file input. The GUI is launched via the command line:
