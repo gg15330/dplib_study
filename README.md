@@ -32,14 +32,14 @@ Please test the functionality/usability of the software in the following ways:
 
 - Model a problem - attempt to model one or more problems via the command line as follows:
 
-java -jar DPLib-1.0-SNAPSHOT-jfx.jar model <path/to/file_to_model.java> <path/to/input_file.txt> <method_to_analyse>
+java -jar DPLib-1.0-SNAPSHOT-jfx.jar model \<path/to/file_to_model.java\> \<path/to/input_file.txt\> \<method_to_analyse\>
 
 Where method_to_analyse is the name of the method which implements the algorithm (e.g. for the FibonacciDP.java sample file this would be 'fibDP'). It is suggested to use one of the supplied sample files, although you are welcome to write your own if you wish.
 
 
 - Solve a problem - use the GUI to solve a problem based on a .mod file input. The GUI is launched via the command line:
 
-java -jar DPLib-1.0-SNAPSHOT-jfx.jar <path/to/file_to_solve.mod>
+java -jar DPLib-1.0-SNAPSHOT-jfx.jar \<path/to/file_to_solve.mod\>
 
 When testing out the Solver, it is suggested to copy and paste code from the same files used in the modeling phase, and alter the code in any way you wish.
 
