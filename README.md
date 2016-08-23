@@ -3,7 +3,7 @@ Thank you for participating in this study.
 
 
 
-
+\n\n\n
 BACKGROUND
 
 Dynamic programming can be understood as 'recursion without repetition'. It is an algorithmic approach to solving recursive problems without re-computing sub-problems unnecessarily, instead storing the results of these sub-problems. As a result, dynamic programming is often orders of magnitude faster than recursion.
@@ -14,7 +14,7 @@ In order to complete this study, in-depth knowledge of dynamic programming is no
 2. MEMOIZED - a solution where recursion still takes place but solutions to pre-computed sub-problems are stored (typically in an array), eliminating unnecessary recursive function calls
 3. ITERATIVE - an iterative solution is derived with no recursive function calls at all.
 
-
+\n\n\n
 
 THE STUDY
 
