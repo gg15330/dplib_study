@@ -37,4 +37,7 @@ java -jar DPLib-1.0-SNAPSHOT-jfx.jar <path/to/file_to_solve.mod>
 When testing out the Solver, it is suggested to copy and paste code from the same files used in the modeling phase, and alter the code in any way you wish.
 
 
-Once you have completed these steps, please follow this link to complete a survey: 
+Once you have completed these steps, please follow this link to complete a survey: https://goo.gl/forms/ycekqaZ5YqLaB4zF2
+
+
+Thanks again, and if you have a study you would like me to participate in, just drop me a message, I'll be happy to help out. George
