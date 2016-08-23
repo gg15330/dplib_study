@@ -30,14 +30,14 @@ The study will be broken down into 2 parts, reflecting the structure of the soft
 Please test the functionality/usability of the software in the following ways:
 
 
-1. Model a problem - attempt to model one or more problems via the command line as follows:
+\1. Model a problem - attempt to model one or more problems via the command line as follows:
 
 java -jar DPLib-1.0-SNAPSHOT-jfx.jar model <path/to/file_to_model.java> <path/to/input_file.txt> <method_to_analyse>
 
 Where method_to_analyse is the name of the method which implements the algorithm (e.g. for the FibonacciDP.java sample file this would be 'fibDP'). It is suggested to use one of the supplied sample files, although you are welcome to write your own if you wish.
 
 
-2. Solve a problem - use the GUI to solve a problem based on a .mod file input. The GUI is launched via the command line:
+\2. Solve a problem - use the GUI to solve a problem based on a .mod file input. The GUI is launched via the command line:
 
 java -jar DPLib-1.0-SNAPSHOT-jfx.jar <path/to/file_to_solve.mod>
 
