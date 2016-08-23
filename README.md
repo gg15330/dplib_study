@@ -45,4 +45,4 @@ Once you have completed these steps, please follow this link to complete a surve
 
 
 
-Thanks again, and if you have a study you would like me to participate in, just drop me a message, I'll be happy to help out. George
+Thanks again, and if you have a study you would like me to participate in, just drop me a message, I'll be happy to help out if I can. George
