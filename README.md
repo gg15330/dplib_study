@@ -1,10 +1,12 @@
 # dplib_study
 Thank you for participating in this study.
 
-Background information
+
+
+
+BACKGROUND
 
 Dynamic programming can be understood as 'recursion without repetition'. It is an algorithmic approach to solving recursive problems without re-computing sub-problems unnecessarily, instead storing the results of these sub-problems. As a result, dynamic programming is often orders of magnitude faster than recursion.
-
 
 In order to complete this study, in-depth knowledge of dynamic programming is not necessary, but there are three main steps students tend to follow when solving dynamic programming problems:
 
@@ -12,6 +14,9 @@ In order to complete this study, in-depth knowledge of dynamic programming is no
 2. MEMOIZED - a solution where recursion still takes place but solutions to pre-computed sub-problems are stored (typically in an array), eliminating unnecessary recursive function calls
 3. ITERATIVE - an iterative solution is derived with no recursive function calls at all.
 
+
+
+THE STUDY
 
 The study will be broken down into 2 parts, reflecting the structure of the software:
 
@@ -21,7 +26,9 @@ The study will be broken down into 2 parts, reflecting the structure of the soft
 
 
 
+
 Please test the functionality/usability of the software in the following ways:
+
 
 1. Model a problem - attempt to model one or more problems via the command line as follows:
 
@@ -38,6 +45,8 @@ When testing out the Solver, it is suggested to copy and paste code from the sam
 
 
 Once you have completed these steps, please follow this link to complete a survey: https://goo.gl/forms/ycekqaZ5YqLaB4zF2
+
+
 
 
 Thanks again, and if you have a study you would like me to participate in, just drop me a message, I'll be happy to help out. George
