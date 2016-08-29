@@ -4,7 +4,7 @@ Thank you for participating in this study.
 BACKGROUND
 
 
-DPLib is a software toolkit to aid the teaching of Dynamic Programming to undergraduates at the University of Bristol. Dynamic programming can be understood as 'recursion without repetition'. It is an algorithmic approach to solving recursive problems without re-computing sub-problems unnecessarily, instead storing the results of these sub-problems. As a result, dynamic programming is usually much faster than recursion.
+DPLib is a software toolkit to aid the teaching of dynamic programming to undergraduates at the University of Bristol. Dynamic programming can be understood as 'recursion without repetition'. It is an algorithmic approach to solving recursive problems without re-computing sub-problems unnecessarily, instead storing the results of these sub-problems. As a result, dynamic programming is usually much faster than recursion.
 
 In order to complete this study, in-depth knowledge of dynamic programming is not necessary, but it is helpful to know that there are three main steps students tend to follow when solving dynamic programming problems:
 
