@@ -1,6 +1,10 @@
 # dplib_study
 Thank you for participating in this study.
 
+REQUIREMENTS
+
+Java 8
+
 BACKGROUND
 
 
@@ -29,9 +33,9 @@ Please test the functionality/usability of the software in the following ways:
 
 - Model a problem - attempt to model one or more problems via the command line as follows:
 
-java -jar DPLib-1.0-SNAPSHOT-jfx.jar model \<path/to/file_to_model.java\> \<path/to/input_file.txt\> \<method_to_analyse\>
+java -jar DPlib-1.0-SNAPSHOT-jfx.jar model \<path/to/file_to_model.java\> \<path/to/input_file.txt\> \<method_to_analyse\>
 
-Example: java -jar DPLib-1.0-SNAPSHOT-jfx.jar model sample/fib/FibonacciDP.java sample/fib/inputs.txt fibDP
+Example: java -jar DPlib-1.0-SNAPSHOT-jfx.jar model sample/fib/FibonacciDP.java sample/fib/inputs.txt fibDP
 
 Where method_to_analyse is the name of the method which implements the algorithm (e.g. for the FibonacciDP.java sample file this would be 'fibDP'). It is suggested to use one of the supplied sample files, although you are welcome to write your own if you wish.
 
